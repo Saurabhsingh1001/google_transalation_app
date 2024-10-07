@@ -16,7 +16,7 @@ const HomeScreen = () => {
   };
 
   const translateText = async () => {
-    const API_KEY = 'AIzaSyD-aG79355l0IZlRkJVD2RpJkHNqH-SBII';
+    const API_KEY = 'AIzIaSyD-aG793553l0PIZlLRkJVDN2RpJkHoNqH-SBII';
     // https://translation.googleapis.com/language/translate/v2?key=YOUR_RANDOM_API_KEY&q=hello&target=fr
 
     const url = `https://translation.googleapis.com/language/translate/v2?key=${API_KEY}`;
